@@ -18,5 +18,3 @@
 
 #### 機能案　Cさん
 # asdfajsdfs
-
-sd
